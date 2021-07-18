@@ -1,6 +1,6 @@
-# Not-Youtube
+# Youtube Clone
 
-### Not-Youtube is a youtube clone made with react, redux, firebase and Youtube API. 
+### Youtube  Cloneis a youtube clone made with react, redux, firebase and Youtube API. 
 
 
 ![](https://i.ytimg.com/vi/Mos5QJAje28/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFbVeOdpHjPmjEkLBCOpvPJC5eMg)
